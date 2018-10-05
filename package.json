@@ -1,0 +1,24 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coinbase": "^2.0.8",
+    "discord.js": "^11.3.2",
+    "discord.js-commando": "^0.9.0",
+    "ffmpeg-binaries": "^3.2.2",
+    "fs": "0.0.1-security",
+    "get-youtube-id": "^1.0.0",
+    "opusscript": "0.0.6",
+    "request": "^2.87.0",
+    "save": "^2.3.2",
+    "youtube-info": "^1.2.0",
+    "ytdl-core": "^0.20.4"
+  }
+}
